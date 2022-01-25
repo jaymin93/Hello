@@ -42,4 +42,4 @@ steps:
       
       !**\bin\$(BuildConfiguration)\**\xunit.runner.visualstudio.testadapter.dll
       !**\bin\$(BuildConfiguration)\**\xunit.runner.visualstudio.dotnetcore.testadapter.dll
-    searchFolder: '$(System.DefaultWorkingDirectory)'
+    
